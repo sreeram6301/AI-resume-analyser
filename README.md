@@ -241,23 +241,23 @@ If you want the full report of project
 
 **Main Screen**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/1-main-screen.png?raw=true)
+![Screenshot]()
 
 **Resume Analysis**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/2-analysis.jpg?raw=true)
+![Screenshot]()
 
 **Skill Recommendation**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/3-recom.png?raw=true)
+![Screenshot]()
 
 **Course Recommendation**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/4-recom.png?raw=true)
+![Screenshot]()
 
 **Tips and Overall Score**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/5-tipsscore.png?raw=true)
+![Screenshot](ht)
 
 **Video Recommendation**
 
@@ -285,11 +285,11 @@ If you want the full report of project
 
 **Exported csv file**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/3-user-datacsv.png?raw=true)
+![Screenshot]()
 
 **Feedback Data**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/4-feed-data.png?raw=true)
+![Screenshot]()
 
 **Pie Chart Analytical Representation of clusters**
 
