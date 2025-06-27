@@ -6,12 +6,7 @@
   <h1>🌴 AI RESUME ANALYZER 🌴</h1>
   <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
   <!-- Badges -->
-  <p>
-    <img src="" alt="last update" />
-    <img src="" alt="open source" />
-    <img src="" alt="language" />
-    <img src="" alt="code size" />
-  </p>
+  
   
   <!--links-->
   <h4>
@@ -24,18 +19,17 @@
   <p>
     <small align="justify">
       Built with 🤍 by 
-      <a href="https://dnoobnerd.netlify.app/">Deepak Padhi</a> through 
-      <a href="https://www.linkedin.com/in/mrbriit/">Dr Bright --(Data Scientist)</a>
+      <a href="https://dnoobnerd.netlify.app/">Sreeram</a>
      </small>
   </p>
-  <small align="justify">🚀 A Project Submitted for the partial fulfilment of the degree B.sc CS at 
-    <a href="https://kirticollege.edu.in/">Kirti College</a> during academic year 2022-23
+  <small align="justify">🚀 A Project Submitted for the partial fulfilment of the degree B.Tech in IT at 
+    Malla Reddy college of Engineering and Technology during academic year 2024-25
   </small>
 </div><br/><br/>
 
 ## About the Project 🥱
 <div align="center">
-    <br/><img src="https://raw.githubusercontent.com/deepakpadhi986/AI-Resume-Analyzer/main/screenshots/RESUME.png" alt="screenshot" /><br/><br/>
+    <br/><img src="https://github.com/sreeram6301/AI-Resume-Analyzer/main/screenshots/RESUME.png" alt="screenshot" /><br/><br/>
     <p align="justify"> 
       A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. 
       And lastly show recommendations, predictions, analytics to the applicant / recruiter based on keyword matching.
