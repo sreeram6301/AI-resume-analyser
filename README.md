@@ -13,7 +13,6 @@
     <span> · </span>
     <a href="#setup--installation-">Installation</a>
     <span> · </span>
-    <a href="mailto:madharamenisreeram@gmail.com?subject=I%20Want%20The%20Project%20Report%20of%20AI-RESUME-ANALYZER%20(2022%20 %2023)&body=Here%20Are%20My%20Details%20%F0%9F%98%89%0D%0A%0D%0AOrganization%2FCollege%20Name%3A%20%0D%0A%0D%0AFull%20Name%3A%20%0D%0A%0D%0AGitHub%20Profile%20%3A%20%0D%0A%0D%0AFrom%20where%20did%20you%20get%20to%20know%20about%20this%20project%3A%0D%0A%0D%0APurpose%20of%20asking%20project%20report%20(describe)%3A%0D%0A%0D%0A%0D%0AIf%20the%20above%20information%20satisfy%20your%20identity%20you%20will%20get%20the%20report%20to%20your%20email.">Project Report</a>
   </h4>
   <p>
     <small align="justify">
@@ -167,8 +166,6 @@ python -m spacy download en_core_web_sm
 
 After installation is finished create a Database ```cv```
 
-And change user credentials inside ```App.py```
-![https://github.com/sreeram6301](https://github.com/sreeram6301/AI-Resume-Analyzer/blob/17e1cdb207fef62557dc394f4158bda515e541fd/App/App.py#L95)
 
 Go to ```venvapp\Lib\site-packages\pyresparser``` folder
 
@@ -192,7 +189,6 @@ If ``GeocoderUnavailable`` error comes up then just check your internet connecti
 ## Issue While Installation and Set-up 🤧
 Check-out installation [Video](https://youtu.be/WFruijLC1Nc)
 
-Feel Free to <a href="mailto:madharamenisreeram@gmail.com?subject=I%20have%20an%20issue%20while%20setup%2Finstalling%20of%20AI%20RESUME%20ANALYZER&body=Name%3A%20-%0D%0A%0D%0ADesignation%3A%20-%0D%0A%0D%0APlease%20describe%20your%20problem%20in%20brief%20with%20attached%20photos%20of%20error">Send mail</a>
 
 ## Usage
 - After the setup it will do stuff's automatically
