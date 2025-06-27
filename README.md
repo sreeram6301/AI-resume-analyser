@@ -28,7 +28,6 @@
 
 ## About the Project 🥱
 <div align="center">
-    <br/><img src="https://github.com/sreeram6301/AI-Resume-Analyzer/main/screenshots/RESUME.png" alt="screenshot" /><br/><br/>
     <p align="justify"> 
       A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. 
       And lastly show recommendations, predictions, analytics to the applicant / recruiter based on keyword matching.
@@ -169,7 +168,7 @@ python -m spacy download en_core_web_sm
 After installation is finished create a Database ```cv```
 
 And change user credentials inside ```App.py```
-[https://github.com/sreeram6301](https://github.com/sreeram6301/AI-Resume-Analyzer/blob/17e1cdb207fef62557dc394f4158bda515e541fd/App/App.py#L95)
+![https://github.com/sreeram6301](https://github.com/sreeram6301/AI-Resume-Analyzer/blob/17e1cdb207fef62557dc394f4158bda515e541fd/App/App.py#L95)
 
 Go to ```venvapp\Lib\site-packages\pyresparser``` folder
 
