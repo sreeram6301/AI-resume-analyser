@@ -208,18 +208,20 @@ Check-out installation [Video](https://youtu.be/WFruijLC1Nc)
 
 ## Preview 👽
 
-![Screenshot]()
+![Screenshot](https://github.com/sreeram6301/AI-resume-analyser/blob/main/screenshots/user/Picture1.jpg)
 
-![Screenshot]()
+![Screenshot](https://github.com/sreeram6301/AI-resume-analyser/blob/main/screenshots/user/Picture2.jpg)
 
-![Screenshot]()
+![Screenshot](https://github.com/sreeram6301/AI-resume-analyser/blob/main/screenshots/user/Picture3.jpg)
 
-![Screenshot]()
+![Screenshot](https://github.com/sreeram6301/AI-resume-analyser/blob/main/screenshots/user/Picture4.jpg)
 
-![Screenshot]()
+![Screenshot](https://github.com/sreeram6301/AI-resume-analyser/blob/main/screenshots/user/Picture5.jpg)
 
-![Screenshot]()
+![Screenshot](https://github.com/sreeram6301/AI-resume-analyser/blob/main/screenshots/user/Picture6.jpg)
 
+![Screenshot](https://github.com/sreeram6301/AI-resume-analyser/blob/main/screenshots/admin/Picture7.jpg)
 
+![Screenshot](https://github.com/sreeram6301/AI-resume-analyser/blob/main/screenshots/admin/Picture8.jpg)
 
 ### Built with 🤍 AI RESUME ANALYZER by <a href="https://dnoobnerd.netlify.app/">Sreeram</a>
